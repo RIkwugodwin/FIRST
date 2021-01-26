@@ -8,13 +8,9 @@
 </head>
 <body>
     <Strong><h2><center>CURRICULUM VITAE (CV)</center> </h2></Strong>
-</body>
 <hr>
-<center><img src="https://github.com/RIkwugodwin/CV/IMG_20200710_173333.jpg" alt=""> </center>
-<Strong> <center><b>NAME: </b>  RIKWU GODWIN ONYUNG </center></Strong>
-<hr> 
 <p><b> <h5> PERSONAL PROFILE:</h5></b></p>
-<table>
+<table><Strong> <center><b>NAME: </b>  RIKWU GODWIN ONYUNG </center></Strong>
     <ul><li><b>SEX:</b> Male
         <p><b>DATE OF BIRTH:</b> 4th April, 1995</p>
         <p><b>MARITAL STATUS:</b>  SINGLE</p>
@@ -134,14 +130,14 @@
          </table>
          <table>
                 <ul>
-                        <td>Cartoonist News Fidei newspaper.</td>
+                        <tr><td>Cartoonist News Fidei newspaper.</td>
                         <td>Fidei Polytechnic Gboko </td>
                         <td>2015</td></tr>
                  </ul>
          </table>
          <table>
                 <ul>
-                        <td> Senior Prefect Boy, Good Shepherd Center for Special Education</td>
+                        <tr><td> Senior Prefect Boy, Good Shepherd Center for Special Education</td>
                        <td>Ogoja, Cross River State</td>
                         <td>2013</td></tr>
                  </ul> 
@@ -196,7 +192,8 @@
             <p>Fidei Polytechnic Gboko</p>
             <p> Benue State</p>
             <p>08050479903 </p>
-            <p>09016612250</p></td>
+            <p>09016612250</p>
+        </td>
         <td>
                 <p><b><a href="stephenAsombu.html">Mr. Stephen Asombu S.</a> </b></p>
                 <p>Senior Lecturer/ NYSC cordinator</p>
@@ -214,4 +211,5 @@
                 <p>08026694158</p>
         </td>
 </ol>
+</body>
 </html>
